@@ -1,0 +1,8 @@
+1) go to CD and go to directory to create a mod file
+2) command : "go mod init <filename>"
+3) printf("insert %T here" , type) -> prints type
+4) implicit type - variable data type not required -> var website = "learncodeonline.in
+5) no var style - variable_name := 300000 - assigns and declaresqw
+6) walrus operator not allowed outside functions
+7) const can be declared using const
+8) First letter capital means the variable is public, otherwise its private
