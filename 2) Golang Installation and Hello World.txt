@@ -1,0 +1,6 @@
+1) Install using golang installation 
+2) make folder - 01hello
+3) make go file under folder - main.go
+4) go to 01hello and main.go
+5) run "go mod init hello" in cmd
+6) make main function and print using "fmt.Println("hello")"

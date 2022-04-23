@@ -1,0 +1,20 @@
+Golang is a compiled language. 
+
+compiled
+Go tool can run file directly, without VM.
+Executables are different for OS
+
+What?
+Can make from system apps to web apps - cloud
+Already in Production
+
+Don't bring baggage with this language.
+
+
+Object Oriented? 
+    - YEs and NO
+    - What you see on the screen is the code (no overloading, method overlaoding etcetra)
+
+missing?
+    - no try catch
+    - lexer does a lot of work, no semi colons
